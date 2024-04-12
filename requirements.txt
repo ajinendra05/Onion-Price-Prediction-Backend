@@ -3,3 +3,4 @@ numpy
 scikit-learn
 pandas
 scipy
+gunicorn==19.7.1
